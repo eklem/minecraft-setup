@@ -9,5 +9,5 @@ Just making local Minecraft machine setup easier. Mac mini and playit.gg.
 
 ### On server:
 
-* Safari: open playit.gg and log in
+* Safari: open [playit.gg](https://playit.gg/) and log in
 * Minecraft server fork and version: Paper v1.20.4
