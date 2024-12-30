@@ -12,8 +12,9 @@ Just making local Minecraft machine setup easier. Mac mini and playit.gg.
 * Safari: open [playit.gg](https://playit.gg/) and log in
 * Minecraft server fork and version: Spigot v1.21.3
 
-### Mods:
+### Mods/plugins:
 
+* [Playit.gg](https://playit.gg/) - You need to log in to download it.
 * [ClickVillagers - Files - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickvillagers/files/all?page=1&pageSize=20&version=1.21.1)
 * [GappleOptions - Files - Minecraft Bukkit Plugins - CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/gapple-options/files/4598440)
 * [Craftable Cobweb - The Craftables Series - Files - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/craftable-cobweb-the-craftables-series/files/all?page=1&pageSize=20&version=1.21.1)
