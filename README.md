@@ -9,7 +9,8 @@ Just making local Minecraft machine setup easier. Mac mini and playit.gg.
 
 ### On server:
 
-* Safari: open [playit.gg](https://playit.gg/) and log in
+* Safari: open [playit.gg](https://playit.gg/), log in and download plugin.
+  Or download on laptop and scp as described further down.
 * Minecraft server fork and version: Spigot v1.21.3
 
 ### Mods/plugins:
