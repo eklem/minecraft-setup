@@ -20,3 +20,9 @@ Just making local Minecraft machine setup easier. Mac mini and playit.gg.
 * [Craftable Cobweb - The Craftables Series - Files - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/craftable-cobweb-the-craftables-series/files/all?page=1&pageSize=20&version=1.21.1)
 * [Bliss SMP Plugin | Spigot/Paper | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/bliss-smp-plugin-spigot-paper.113775/)
 * A dependency of Bliss SMP Plugin is [Executable Items Premium](https://www.spigotmc.org/resources/5-custom-items-plugin-executable-items-add-infinite-abilities-to-your-items.83070/)
+
+Plugins that needs to be downloaded when logged in needs to be scp'ed over to the server. Like this:
+
+```console
+scp ./playit-minecraft-plugin.jar eklem@minicraft:/Users/eklem/minecraft/plugins/
+```
